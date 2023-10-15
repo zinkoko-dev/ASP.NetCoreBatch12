@@ -1,0 +1,14 @@
+D:\.NET\workspace\ASP.NetCoreBatch12\LoopingPractice\bin\Debug\net6.0\LoopingPractice.exe
+D:\.NET\workspace\ASP.NetCoreBatch12\LoopingPractice\bin\Debug\net6.0\LoopingPractice.deps.json
+D:\.NET\workspace\ASP.NetCoreBatch12\LoopingPractice\bin\Debug\net6.0\LoopingPractice.runtimeconfig.json
+D:\.NET\workspace\ASP.NetCoreBatch12\LoopingPractice\bin\Debug\net6.0\LoopingPractice.dll
+D:\.NET\workspace\ASP.NetCoreBatch12\LoopingPractice\bin\Debug\net6.0\LoopingPractice.pdb
+D:\.NET\workspace\ASP.NetCoreBatch12\LoopingPractice\obj\Debug\net6.0\LoopingPractice.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\workspace\ASP.NetCoreBatch12\LoopingPractice\obj\Debug\net6.0\LoopingPractice.AssemblyInfoInputs.cache
+D:\.NET\workspace\ASP.NetCoreBatch12\LoopingPractice\obj\Debug\net6.0\LoopingPractice.AssemblyInfo.cs
+D:\.NET\workspace\ASP.NetCoreBatch12\LoopingPractice\obj\Debug\net6.0\LoopingPractice.csproj.CoreCompileInputs.cache
+D:\.NET\workspace\ASP.NetCoreBatch12\LoopingPractice\obj\Debug\net6.0\LoopingPractice.dll
+D:\.NET\workspace\ASP.NetCoreBatch12\LoopingPractice\obj\Debug\net6.0\refint\LoopingPractice.dll
+D:\.NET\workspace\ASP.NetCoreBatch12\LoopingPractice\obj\Debug\net6.0\LoopingPractice.pdb
+D:\.NET\workspace\ASP.NetCoreBatch12\LoopingPractice\obj\Debug\net6.0\LoopingPractice.genruntimeconfig.cache
+D:\.NET\workspace\ASP.NetCoreBatch12\LoopingPractice\obj\Debug\net6.0\ref\LoopingPractice.dll

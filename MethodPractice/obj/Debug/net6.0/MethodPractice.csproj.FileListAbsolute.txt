@@ -1,0 +1,14 @@
+D:\.NET\workspace\ASP.NetCoreBatch12\MethodPractice\bin\Debug\net6.0\MethodPractice.exe
+D:\.NET\workspace\ASP.NetCoreBatch12\MethodPractice\bin\Debug\net6.0\MethodPractice.deps.json
+D:\.NET\workspace\ASP.NetCoreBatch12\MethodPractice\bin\Debug\net6.0\MethodPractice.runtimeconfig.json
+D:\.NET\workspace\ASP.NetCoreBatch12\MethodPractice\bin\Debug\net6.0\MethodPractice.dll
+D:\.NET\workspace\ASP.NetCoreBatch12\MethodPractice\bin\Debug\net6.0\MethodPractice.pdb
+D:\.NET\workspace\ASP.NetCoreBatch12\MethodPractice\obj\Debug\net6.0\MethodPractice.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\workspace\ASP.NetCoreBatch12\MethodPractice\obj\Debug\net6.0\MethodPractice.AssemblyInfoInputs.cache
+D:\.NET\workspace\ASP.NetCoreBatch12\MethodPractice\obj\Debug\net6.0\MethodPractice.AssemblyInfo.cs
+D:\.NET\workspace\ASP.NetCoreBatch12\MethodPractice\obj\Debug\net6.0\MethodPractice.csproj.CoreCompileInputs.cache
+D:\.NET\workspace\ASP.NetCoreBatch12\MethodPractice\obj\Debug\net6.0\MethodPractice.dll
+D:\.NET\workspace\ASP.NetCoreBatch12\MethodPractice\obj\Debug\net6.0\refint\MethodPractice.dll
+D:\.NET\workspace\ASP.NetCoreBatch12\MethodPractice\obj\Debug\net6.0\MethodPractice.pdb
+D:\.NET\workspace\ASP.NetCoreBatch12\MethodPractice\obj\Debug\net6.0\MethodPractice.genruntimeconfig.cache
+D:\.NET\workspace\ASP.NetCoreBatch12\MethodPractice\obj\Debug\net6.0\ref\MethodPractice.dll

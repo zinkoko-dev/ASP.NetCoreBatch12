@@ -1,0 +1,14 @@
+D:\.NET\workspace\ASP.NetCoreBatch12\CollectionPractice\bin\Debug\net6.0\CollectionPractice.exe
+D:\.NET\workspace\ASP.NetCoreBatch12\CollectionPractice\bin\Debug\net6.0\CollectionPractice.deps.json
+D:\.NET\workspace\ASP.NetCoreBatch12\CollectionPractice\bin\Debug\net6.0\CollectionPractice.runtimeconfig.json
+D:\.NET\workspace\ASP.NetCoreBatch12\CollectionPractice\bin\Debug\net6.0\CollectionPractice.dll
+D:\.NET\workspace\ASP.NetCoreBatch12\CollectionPractice\bin\Debug\net6.0\CollectionPractice.pdb
+D:\.NET\workspace\ASP.NetCoreBatch12\CollectionPractice\obj\Debug\net6.0\CollectionPractice.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\workspace\ASP.NetCoreBatch12\CollectionPractice\obj\Debug\net6.0\CollectionPractice.AssemblyInfoInputs.cache
+D:\.NET\workspace\ASP.NetCoreBatch12\CollectionPractice\obj\Debug\net6.0\CollectionPractice.AssemblyInfo.cs
+D:\.NET\workspace\ASP.NetCoreBatch12\CollectionPractice\obj\Debug\net6.0\CollectionPractice.csproj.CoreCompileInputs.cache
+D:\.NET\workspace\ASP.NetCoreBatch12\CollectionPractice\obj\Debug\net6.0\CollectionPractice.dll
+D:\.NET\workspace\ASP.NetCoreBatch12\CollectionPractice\obj\Debug\net6.0\refint\CollectionPractice.dll
+D:\.NET\workspace\ASP.NetCoreBatch12\CollectionPractice\obj\Debug\net6.0\CollectionPractice.pdb
+D:\.NET\workspace\ASP.NetCoreBatch12\CollectionPractice\obj\Debug\net6.0\CollectionPractice.genruntimeconfig.cache
+D:\.NET\workspace\ASP.NetCoreBatch12\CollectionPractice\obj\Debug\net6.0\ref\CollectionPractice.dll

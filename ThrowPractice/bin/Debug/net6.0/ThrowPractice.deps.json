@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ThrowPractice/1.0.0": {
+        "runtime": {
+          "ThrowPractice.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ThrowPractice/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

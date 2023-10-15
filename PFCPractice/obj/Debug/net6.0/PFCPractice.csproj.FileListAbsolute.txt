@@ -1,0 +1,14 @@
+D:\.NET\workspace\ASP.NetCoreBatch12\PFCPractice\bin\Debug\net6.0\PFCPractice.exe
+D:\.NET\workspace\ASP.NetCoreBatch12\PFCPractice\bin\Debug\net6.0\PFCPractice.deps.json
+D:\.NET\workspace\ASP.NetCoreBatch12\PFCPractice\bin\Debug\net6.0\PFCPractice.runtimeconfig.json
+D:\.NET\workspace\ASP.NetCoreBatch12\PFCPractice\bin\Debug\net6.0\PFCPractice.dll
+D:\.NET\workspace\ASP.NetCoreBatch12\PFCPractice\bin\Debug\net6.0\PFCPractice.pdb
+D:\.NET\workspace\ASP.NetCoreBatch12\PFCPractice\obj\Debug\net6.0\PFCPractice.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\workspace\ASP.NetCoreBatch12\PFCPractice\obj\Debug\net6.0\PFCPractice.AssemblyInfoInputs.cache
+D:\.NET\workspace\ASP.NetCoreBatch12\PFCPractice\obj\Debug\net6.0\PFCPractice.AssemblyInfo.cs
+D:\.NET\workspace\ASP.NetCoreBatch12\PFCPractice\obj\Debug\net6.0\PFCPractice.csproj.CoreCompileInputs.cache
+D:\.NET\workspace\ASP.NetCoreBatch12\PFCPractice\obj\Debug\net6.0\PFCPractice.dll
+D:\.NET\workspace\ASP.NetCoreBatch12\PFCPractice\obj\Debug\net6.0\refint\PFCPractice.dll
+D:\.NET\workspace\ASP.NetCoreBatch12\PFCPractice\obj\Debug\net6.0\PFCPractice.pdb
+D:\.NET\workspace\ASP.NetCoreBatch12\PFCPractice\obj\Debug\net6.0\PFCPractice.genruntimeconfig.cache
+D:\.NET\workspace\ASP.NetCoreBatch12\PFCPractice\obj\Debug\net6.0\ref\PFCPractice.dll
