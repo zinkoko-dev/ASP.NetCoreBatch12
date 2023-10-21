@@ -1,5 +1,4 @@
-﻿
-using System.Collections;
+﻿using System.Collections;
 
 internal class Program
 {
@@ -7,7 +6,7 @@ internal class Program
     {
         Console.WriteLine("Collection Practice");
 
-        /*// Array List
+        #region Array List
         ArrayList myArrayList = new ArrayList();
         myArrayList.Add(1);
         myArrayList.Add(2);
@@ -17,15 +16,19 @@ internal class Program
         for (int i = 0; i < myArrayList.Count; i++)
         {
             Console.WriteLine(myArrayList[i]);
-        }*/
+        }
+        #endregion
 
-        /*// List
+        #region List
+
         List<string> Messages = new List<string>();
         Messages.Add("Hello");
         Messages.Add("World!!");
-        Messages.ForEach(msg => Console.WriteLine(msg));*/
+        Messages.ForEach(msg => Console.WriteLine(msg));
 
-        /*// HashTable
+        #endregion
+
+        #region HashTable
         Hashtable hs = new Hashtable();
         hs.Add("one", "Open file");
         hs.Add("two", "Excetuable App");
@@ -35,20 +38,24 @@ internal class Program
         foreach (DictionaryEntry de in hs)
         {
             Console.WriteLine(de.Value);
-        }*/
+        }
+        #endregion
 
-        /*// Queue
+        #region Queue
         Queue q = new Queue();
         q.Enqueue("Queue Test");
-        Console.WriteLine(q.Dequeue());*/
+        Console.WriteLine(q.Dequeue());
+        #endregion
 
-        /*// IList
+        #region IList
         IList<string> list = new List<string>();
         list.Add("a");
         list.Add("b");
         list.Add("c");
-        foreach (string item in list) { 
+        foreach (string item in list)
+        {
             Console.WriteLine(item);
-        }*/
+        }
+        #endregion
     }
 }
