@@ -1,0 +1,14 @@
+D:\.NET\workspace\ASP.NetCoreBatch12\OOPDayTwo\bin\Debug\net7.0\OOPDayTwo.exe
+D:\.NET\workspace\ASP.NetCoreBatch12\OOPDayTwo\bin\Debug\net7.0\OOPDayTwo.deps.json
+D:\.NET\workspace\ASP.NetCoreBatch12\OOPDayTwo\bin\Debug\net7.0\OOPDayTwo.runtimeconfig.json
+D:\.NET\workspace\ASP.NetCoreBatch12\OOPDayTwo\bin\Debug\net7.0\OOPDayTwo.dll
+D:\.NET\workspace\ASP.NetCoreBatch12\OOPDayTwo\bin\Debug\net7.0\OOPDayTwo.pdb
+D:\.NET\workspace\ASP.NetCoreBatch12\OOPDayTwo\obj\Debug\net7.0\OOPDayTwo.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\workspace\ASP.NetCoreBatch12\OOPDayTwo\obj\Debug\net7.0\OOPDayTwo.AssemblyInfoInputs.cache
+D:\.NET\workspace\ASP.NetCoreBatch12\OOPDayTwo\obj\Debug\net7.0\OOPDayTwo.AssemblyInfo.cs
+D:\.NET\workspace\ASP.NetCoreBatch12\OOPDayTwo\obj\Debug\net7.0\OOPDayTwo.csproj.CoreCompileInputs.cache
+D:\.NET\workspace\ASP.NetCoreBatch12\OOPDayTwo\obj\Debug\net7.0\OOPDayTwo.dll
+D:\.NET\workspace\ASP.NetCoreBatch12\OOPDayTwo\obj\Debug\net7.0\refint\OOPDayTwo.dll
+D:\.NET\workspace\ASP.NetCoreBatch12\OOPDayTwo\obj\Debug\net7.0\OOPDayTwo.pdb
+D:\.NET\workspace\ASP.NetCoreBatch12\OOPDayTwo\obj\Debug\net7.0\OOPDayTwo.genruntimeconfig.cache
+D:\.NET\workspace\ASP.NetCoreBatch12\OOPDayTwo\obj\Debug\net7.0\ref\OOPDayTwo.dll
