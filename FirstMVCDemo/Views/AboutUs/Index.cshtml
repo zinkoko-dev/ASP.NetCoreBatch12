@@ -1,0 +1,45 @@
+﻿<h1 style="margin-bottom: 50px">
+    This is my about Page.
+</h1>
+
+<form action="/AboutUs/CalculateSum" method="post">
+    <label>Number 1 :</label>
+    <input type="text" name="n1" /><br /><br />
+    <label>Number 2 :</label>
+    <input type="text" name="n2" /><br /><br />
+    <button type="submit" id="sum-buttom">Sum</button>
+</form>
+
+<a href="/aboutus/simpledownload">FileDownload</a>
+
+@* <button type="submit" onclick="fileDownload()">File Download</button> *@
+
+<form action="/AboutUs/TellMeYourFullName" method="post">
+    <label>First Name:</label>
+    <input type="text" name="firstName" /><br /><br />
+    <label>Last Name:</label>
+    <input type="text" name="lastName" /><br /><br />
+    <button type="submit" id="name-buttom">Submit</button>
+</form>
+
+<style>
+    #sum-buttom {
+        background-color: green;
+        text-align: center;
+        border-radius: 5px;
+        color: white;
+        padding-left: 10px;
+        padding-right: 10px;
+        margin-left: 16.5%;
+    }
+
+    #name-buttom {
+        background-color: green;
+        text-align: center;
+        border-radius: 5px;
+        color: white;
+        padding-left: 10px;
+        padding-right: 10px;
+        margin-left: 15.5%;
+    }
+</style>

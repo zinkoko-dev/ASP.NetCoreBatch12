@@ -13,9 +13,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MethodPractice", "MethodPra
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ThrowPractice", "ThrowPractice\ThrowPractice.csproj", "{D037CC5D-97BF-43A3-824C-C3594D5D1F1D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPDayOne", "OOPDayOne\OOPDayOne.csproj", "{25B732B6-6436-46B4-BFCB-A48E2DBFFF7A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOPDayOne", "OOPDayOne\OOPDayOne.csproj", "{25B732B6-6436-46B4-BFCB-A48E2DBFFF7A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPDayTwo", "OOPDayTwo\OOPDayTwo.csproj", "{13DF9670-BC73-4DE1-8325-D79F6BB8536D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOPDayTwo", "OOPDayTwo\OOPDayTwo.csproj", "{13DF9670-BC73-4DE1-8325-D79F6BB8536D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstMVCDemo", "FirstMVCDemo\FirstMVCDemo.csproj", "{DED5C7E7-3BDE-4D84-93A2-812B184ED5BF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{13DF9670-BC73-4DE1-8325-D79F6BB8536D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{13DF9670-BC73-4DE1-8325-D79F6BB8536D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{13DF9670-BC73-4DE1-8325-D79F6BB8536D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DED5C7E7-3BDE-4D84-93A2-812B184ED5BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DED5C7E7-3BDE-4D84-93A2-812B184ED5BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DED5C7E7-3BDE-4D84-93A2-812B184ED5BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DED5C7E7-3BDE-4D84-93A2-812B184ED5BF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
