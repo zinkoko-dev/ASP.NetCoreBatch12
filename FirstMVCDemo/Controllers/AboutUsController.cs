@@ -10,7 +10,7 @@ namespace FirstMVCDemo.Controllers
         {
             this._webHostEnvironment = webHostEnvironment;
         }
-
+        
         public IActionResult Index()
         {
             return View();
@@ -36,6 +36,21 @@ namespace FirstMVCDemo.Controllers
         {
             string fullName = $"Hello, {firstName} {lastName}, Welcome !!";
             ViewBag.Result = fullName;
+            return View();
+        }
+
+        [ActionName("Me")]
+        public IActionResult DoMe()
+        {
+            return View();
+        }
+
+        [NonAction]
+        public ViewResult RandonNumber()
+        {
+            Random rnd = new Random();
+            string result = rnd.Next(0, 100).ToString();
+            ViewBag.Result = result;
             return View();
         }
     }
